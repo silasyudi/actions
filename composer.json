@@ -1,4 +1,6 @@
 {
+    "name": "symfonyboot/actions",
+    "description": "Test github actions Project",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
