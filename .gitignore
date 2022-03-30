@@ -13,6 +13,7 @@
 /phpunit.xml
 .phpunit.result.cache
 .phpunit
+clover.xml
 ###< phpunit/phpunit ###
 .idea
 composer.lock
